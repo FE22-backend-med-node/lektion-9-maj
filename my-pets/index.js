@@ -33,3 +33,7 @@ let newPet = {
 }
 
 addNewPet(newPet)
+
+// TODO:
+//1. Skapa en funktion som uppdaterar ett djur i myPets.json
+//2. Skapa en funktion som tar bort ett djur i myPets.json
